@@ -1,8 +1,2 @@
-Hello 
-This is my untracked file
-
-Done
-
-i want to add this file on remote localtion
-
-now we have to push our data 
+Hello This is my new file
+Need to add on remote location

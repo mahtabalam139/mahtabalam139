@@ -1,5 +1,132 @@
-# 💫 About Me:
-After 4+ years of experience in Capital Markets and Financial Services, I have built a strong foundation in Application Production Support, Linux Administration, SQL, AWS, and automation while supporting mission-critical trading platforms.<br><br>Core Expertise<br><br>✅ Application & Production Support (L2)<br> ✅ Linux Administration & Troubleshooting<br> ✅ SQL & MySQL Database Management<br> ✅ AWS (EC2, S3)<br> ✅ Incident, Problem & Change Management<br> ✅ Production, UAT & DR Deployments<br> ✅ BOD/EOD Operations<br> ✅ Root Cause Analysis (RCA)<br> ✅ Docker, Git & Jenkins<br> ✅ Python Automation & Process Improvement<br><br>Recent Projects<br>CTCL Message Ratio Management Web Application<br><br>Built and deployed an enterprise web-based CTCL Message Ratio Management platform using Python, FastAPI, MySQL, Docker, and AWS EC2.<br><br>Key Highlights:<br><br>Migrated a legacy desktop application to a centralized web-based solution.<br>Implemented user authentication, audit logging, revision tracking, and search functionality.<br>Developed MySQL-backed data management with complete historical tracking.<br>Automated Excel-based operational workflows using Pandas and OpenPyXL.<br>Containerized the application using Docker and deployed it on AWS EC2.<br>Implemented database backup and recovery using MySQL dump and restore mechanisms.<br>What I'm Looking For<br><br>I am passionate about bridging the gap between Production Support, Automation, DevOps, and Application Development.<br><br>Currently open to opportunities in:<br><br>Application Support Engineer<br>Production Support Engineer<br>Linux Support Engineer<br>Python Automation Engineer<br>DevOps / Platform Support Engineer<br><br>📍 Mumbai | Pune | Bengaluru | Hyderabad | Chennai | Gurugram | Noida<br><br>📧 mahtabalam139@gmail.com<br> 📞 +91 8652372408
+# Hi, I'm Mahtab Alam 👋
+
+## Application Support Engineer | Production Support | Python Automation | DevOps Enthusiast
+
+I have 4+ years of experience supporting mission-critical applications in Capital Markets and Financial Services.
+
+My primary focus is building reliable production systems, automating operational tasks, monitoring infrastructure, and improving deployment processes through Python and modern DevOps practices.
+
+---
+
+## Technical Skills
+
+### Production Support
+
+- Application Production Support (L2)
+- Incident Management
+- Problem Management
+- Change Management
+- Root Cause Analysis (RCA)
+- BOD / EOD Operations
+- Production & UAT Support
+
+### Programming
+
+- Python
+- FastAPI
+- REST APIs
+- Pandas
+- OpenPyXL
+
+### Operating Systems
+
+- Linux
+- Windows Server
+
+### Database
+
+- SQL
+- MySQL
+
+### DevOps & Cloud
+
+- Docker
+- Git
+- GitHub
+
+(Currently building hands-on experience with Jenkins and AWS.)
+
+---
+
+# Featured Projects
+
+## Production Monitoring Dashboard
+
+Enterprise monitoring dashboard developed using FastAPI.
+
+### Features
+
+- Live CPU Monitoring
+- Memory Monitoring
+- Disk Monitoring
+- Process Monitoring
+- Docker Monitoring
+- Database Monitoring
+- Alert Monitoring
+- Log Monitoring
+- Multi Server Monitoring
+
+### Technologies
+
+Python • FastAPI • Docker • JavaScript • Bootstrap • Chart.js • Git
+
+---
+
+## CTCL Message Ratio Management System
+
+Enterprise web application for managing CTCL Message Ratio revisions.
+
+### Features
+
+- Revision Management
+- Historical Tracking
+- Search & Filters
+- Audit Trail
+- MySQL Integration
+- Excel Automation
+- User Authentication
+- Docker Ready Architecture
+
+### Technologies
+
+Python • FastAPI • MySQL • Pandas • Docker
+
+---
+
+# Currently Learning
+
+- Jenkins CI/CD
+- AWS EC2 Deployment
+- Docker Compose
+- Nginx
+- Production Deployment
+- Monitoring & Observability
+
+---
+
+# Career Interests
+
+I am interested in opportunities involving
+
+- Application Support Engineer
+- Production Support Engineer
+- Python Automation Engineer
+- DevOps Engineer
+- Site Reliability Engineering (SRE)
+
+---
+
+# Connect With Me
+
+📍 Mumbai, India
+
+📧 Email: **mahtabalam139@gmail.com**
+
+💼 LinkedIn:
+https://linkedin.com/in/mahtab-alam-14ba70257
+
+🌐 GitHub:
+https://github.com/mahtabalam139
 
 
 ## 🌐 Socials:

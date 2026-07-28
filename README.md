@@ -1,132 +1,26 @@
-# Hi, I'm Mahtab Alam 👋
+## 🚀 Featured Projects
 
-## Application Support Engineer | Production Support | Python Automation | DevOps Enthusiast
+### 📊 Production Monitoring Dashboard
+Enterprise monitoring dashboard built with FastAPI, Docker and Python.
 
-I have 4+ years of experience supporting mission-critical applications in Capital Markets and Financial Services.
-
-My primary focus is building reliable production systems, automating operational tasks, monitoring infrastructure, and improving deployment processes through Python and modern DevOps practices.
-
----
-
-## Technical Skills
-
-### Production Support
-
-- Application Production Support (L2)
-- Incident Management
-- Problem Management
-- Change Management
-- Root Cause Analysis (RCA)
-- BOD / EOD Operations
-- Production & UAT Support
-
-### Programming
-
-- Python
-- FastAPI
-- REST APIs
-- Pandas
-- OpenPyXL
-
-### Operating Systems
-
-- Linux
-- Windows Server
-
-### Database
-
-- SQL
-- MySQL
-
-### DevOps & Cloud
-
-- Docker
-- Git
-- GitHub
-
-(Currently building hands-on experience with Jenkins and AWS.)
+➡️ Repository:
+https://github.com/mahtabalam139/production-monitoring-dashboard
 
 ---
 
-# Featured Projects
+### 💹 CTCL Message Ratio Management System
 
-## Production Monitoring Dashboard
+Enterprise CTCL Management Platform.
 
-Enterprise monitoring dashboard developed using FastAPI.
+➡️ Repository:
+https://github.com/mahtabalam139/ctcl-message-ratio-management
 
-### Features
-
-- Live CPU Monitoring
-- Memory Monitoring
-- Disk Monitoring
-- Process Monitoring
-- Docker Monitoring
-- Database Monitoring
-- Alert Monitoring
-- Log Monitoring
-- Multi Server Monitoring
-
-### Technologies
-
-Python • FastAPI • Docker • JavaScript • Bootstrap • Chart.js • Git
-
----
-
-## CTCL Message Ratio Management System
-
-Enterprise web application for managing CTCL Message Ratio revisions.
-
-### Features
-
-- Revision Management
-- Historical Tracking
-- Search & Filters
-- Audit Trail
-- MySQL Integration
-- Excel Automation
-- User Authentication
-- Docker Ready Architecture
-
-### Technologies
-
-Python • FastAPI • MySQL • Pandas • Docker
-
----
-
-# Currently Learning
-
-- Jenkins CI/CD
-- AWS EC2 Deployment
-- Docker Compose
-- Nginx
-- Production Deployment
-- Monitoring & Observability
-
----
-
-# Career Interests
-
-I am interested in opportunities involving
-
-- Application Support Engineer
-- Production Support Engineer
-- Python Automation Engineer
-- DevOps Engineer
-- Site Reliability Engineering (SRE)
-
----
-
-# Connect With Me
+## 💼 Open to Opportunities
+Application Support • Production Support • Python Automation • DevOps
 
 📍 Mumbai, India
-
-📧 Email: **mahtabalam139@gmail.com**
-
-💼 LinkedIn:
-https://linkedin.com/in/mahtab-alam-14ba70257
-
-🌐 GitHub:
-https://github.com/mahtabalam139
+📧 **mahtabalam139@gmail.com**
+💼 LinkedIn: https://linkedin.com/in/mahtab-alam-14ba70257
 
 
 ## 🌐 Socials:
